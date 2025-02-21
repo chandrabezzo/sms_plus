@@ -1,3 +1,10 @@
+# 3.0.0
+* Updated maintainer to Chandra Abdul Fattah
+* Fixed deprecated `textScaleFactor` usage
+* Removed TODO comments
+* Updated SDK constraints to support Dart 3
+* Updated Flutter constraint to remove upper bound
+
 # 2.3.3
 
 * Adding ability to send SMS directly on Android (#57).

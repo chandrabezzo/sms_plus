@@ -6,8 +6,8 @@ repository: https://github.com/chandrabezzo/sms_plus
 maintainer: Chandra Abdul Fattah
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ^1.10.0
+  sdk: '>=2.12.0 <4.0.0'
+  flutter: '>=1.10.0'
 
 dependencies:
   flutter:

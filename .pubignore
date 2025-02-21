@@ -1,0 +1,19 @@
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Example app files that should not be published
+example/.flutter-plugins-dependencies
+example/.dart_tool/
+example/build/
+example/.packages
+
+# Android IDE files
+android/.idea/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
