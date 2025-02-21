@@ -4,23 +4,14 @@
 *.log
 *.pyc
 *.swp
-.DS_Store
 .atom/
 .buildlog/
 .history
 .svn/
 
 # IntelliJ related
-*.iml
 *.ipr
 *.iws
-.idea/
-
-# Visual Studio Code related
-.classpath
-.project
-.settings/
-.vscode/
 
 # Flutter repo-specific
 /bin/cache/

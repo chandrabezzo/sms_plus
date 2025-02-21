@@ -1,19 +1,35 @@
-# IDE files
-.idea/
-.vscode/
+# IDE and config files
+.idea/**
+.vscode/**
+*.iml
+.project
+.classpath
+.settings/**
 
 # OS files
 .DS_Store
 
-# Example app files that should not be published
-example/.flutter-plugins-dependencies
-example/.dart_tool/
-example/build/
-example/.packages
-
 # Android IDE files
-android/.idea/
-android/gradle/
+android/.idea/**
+android/gradle/**
 android/gradlew
 android/gradlew.bat
 android/local.properties
+
+# Example app files
+example/android/.gradle/**
+example/android/captures/**
+example/android/local.properties
+example/android/app/build/**
+example/.dart_tool/**
+example/.packages
+example/build/**
+
+# Example app config files that should be published
+!example/.flutter-plugins-dependencies
+!example/.idea/**
+!example/android/gradle/**
+!example/android/gradlew
+!example/android/gradlew.bat
+!example/android/gradle/wrapper/gradle-wrapper.jar
+!example/*.iml
