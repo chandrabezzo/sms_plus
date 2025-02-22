@@ -1,4 +1,4 @@
-package com.example.flutter_sms
+package com.solusibejo.sms_plus
 
 import android.annotation.TargetApi
 import android.app.Activity

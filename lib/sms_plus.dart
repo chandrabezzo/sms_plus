@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'src/flutter_sms_platform.dart';
+import 'src/sms_plus_platform.dart';
 
 /// Open SMS Dialog on iOS/Android/Web
 Future<String> sendSMS({

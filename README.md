@@ -1,16 +1,10 @@
-[![Flutter Community: flutter_sms](https://fluttercommunity.dev/_github/header/flutter_sms)](https://github.com/fluttercommunity/community)
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg)](https://www.buymeacoffee.com/rodydavis)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WSH3GVC49GNNJ)
-![github pages](https://github.com/fluttercommunity/flutter_sms/workflows/github%20pages/badge.svg)
-[![GitHub stars](https://img.shields.io/github/stars/fluttercommunity/flutter_sms?color=blue)](https://github.com/fluttercommunity/flutter_sms)
-[![flutter_sms](https://img.shields.io/pub/v/flutter_sms.svg)](https://pub.dev/packages/flutter_sms)
+![github pages](https://github.com/chandrabezzo/sms_plus/workflows/github%20pages/badge.svg)
+[![GitHub stars](https://img.shields.io/github/stars/chandrabezzo/sms_plus?color=blue)](https://github.com/chandrabezzo/s,sms_plus)
+[![flutter_sms](https://img.shields.io/pub/v/flutter_sms.svg)](https://pub.dev/packages/sms_plus)
 
 # flutter_sms
 
-![alt-text-1](https://github.com/fluttercommunity/flutter_sms/blob/master/screenshots/ios_blank.PNG)
-
-Online Demo: https://fluttercommunity.github.io/flutter_sms/
+![alt-text-1](https://github.com/chandrabezzo/sms_plus/blob/master/screenshots/ios_blank.PNG)
 
 ## Description
 
@@ -32,7 +26,7 @@ This will populate the correct fields.
 Make sure to Install and Import the Package.
 
 ``` dart
-import 'package:flutter_sms/flutter_sms.dart';
+import 'package:sms_plus/sms_plus.dart';
 ```
 
 Create a function for sending messages.
@@ -90,6 +84,6 @@ NOTE: This also requires the SEND_SMS permission to be added to the AndroidManif
 
 iOS SMS             |  Android MMS
 :-------------------------:|:-------------------------:
-![alt-text-1](https://github.com/fluttercommunity/flutter_sms/blob/master/screenshots/ios_sms.PNG)  |  ![alt-text-2](https://github.com/fluttercommunity/flutter_sms/blob/master/screenshots/android_mms.png)
+![alt-text-1](https://github.com/chandrabezzo/sms_plus/blob/master/screenshots/ios_sms.PNG)  |  ![alt-text-2](https://github.com/chandrabezzo/sms_plus/blob/master/screenshots/android_mms.png)
 
-You can find other [screenshots here](https://github.com/fluttercommunity/flutter_sms/tree/master/screenshots).
+You can find other [screenshots here](https://github.com/chandrabezzo/sms_plus/tree/master/screenshots).

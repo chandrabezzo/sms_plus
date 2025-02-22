@@ -2,12 +2,12 @@ import 'dart:async';
 
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 
-import 'src/flutter_sms_platform.dart';
+import 'src/sms_plus_platform.dart';
 
-class FlutterSmsPlugin extends FlutterSmsPlatform {
+class SmsPlusPlugin extends FlutterSmsPlatform {
   static void registerWith(Registrar registrar) {
     // WidgetsFlutterBinding.ensureInitialized();
-    FlutterSmsPlatform.instance = FlutterSmsPlugin();
+    FlutterSmsPlatform.instance = SmsPlusPlugin();
   }
 
   @override

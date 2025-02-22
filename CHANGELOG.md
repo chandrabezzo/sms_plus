@@ -1,3 +1,8 @@
+# 3.1.0
+* Provide namespace
+* Replace package name from `com.example.flutter_sms` to `com.solusibejo.sms_plus`
+* Replace flutter_sms_web to sms_plus_web
+
 # 3.0.0
 * Updated maintainer to Chandra Abdul Fattah
 * Fixed deprecated `textScaleFactor` usage
